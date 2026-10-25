@@ -1,0 +1,13 @@
+   # Maven / Eclipse / IntelliJ
+   /target/
+   /bin/
+   .classpath
+   .project
+   .settings/
+   .idea/
+   *.iml
+   *.log
+
+   # Données locales
+   uploads/
+   config.properties
